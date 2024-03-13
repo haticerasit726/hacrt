@@ -1,0 +1,43 @@
+Privacy Policy
+
+Introduction
+Welcome to Meryame learn ("We," "us," or "our"). Protecting the privacy of our users ("you") is a responsibility we take seriously. This Privacy Policy details how we collect, use, and safeguard your personal data when you interact with our mobile application (the "App"). We encourage you to read this Privacy Policy carefully to understand our approach to your privacy. By using the App, you agree to the practices described in this Privacy Policy. We reserve the right to make changes to this policy, and we will notify you of any significant updates by revising the policy on the App or our website, and through other appropriate means. Continued use of the App after any such changes constitutes your consent to the updated policy.
+
+1. Collection of Information
+We collect information in the following ways:
+
+Non-personal data we gather may include the type of device you use, its operating system, language settings, device identifiers (e.g., Android ID, Advertising ID), user session times, app engagement metrics, and overall usage patterns.
+
+Personal data we collect may include your full name, date of birth, gender, contact information, email address, user ID, and other identifying information, as well as details from Google if you sign in with your Google account.
+
+2. Utilization of Information
+We collect data for several purposes:
+
+To operate and improve our Services, authenticate users, facilitate communication, and customize advertising to your preferences.
+
+To enhance your in-app experience and tailor our special offers and promotions to align with your interests.
+
+To maintain security and system integrity, preventing unauthorized access, fraud, and other illegal activities.
+
+To fulfill our legal and regulatory responsibilities.
+
+3. Disclosure of Information
+Your data is not for sale, trade, or rent. We partner with third-party service providers, affiliates, merchants, order fulfillment partners, and marketing collaborators to support our Services. We may share information with these parties under strict confidentiality obligations, conforming to Google's privacy guidelines.
+
+4. Protection of Information
+We implement industry-recognized security measures, including physical, managerial, and electronic safeguards, as well as encryption where suitable, to protect your data from unauthorized use, disclosure, alteration, or destruction.
+
+5. Retention of Information
+We retain your data only as long as necessary to provide the Services, satisfy the original purposes of collection, comply with legal obligations, or until you request its removal. Thus, we will store your data throughout the active lifespan of the mobile application as part of our Services, and then the data will be securely deleted or anonymized for analytical purposes.
+
+6. Rights of European Users
+For users in the European Economic Area (EEA), you have additional rights, including the right to access personal data and to file complaints with local data protection authorities. Data may be transferred outside the EEA to regions with different data protection standards, and by using the App, you explicitly consent to these transfers. You may withdraw your consent at any time.
+
+7. Children's Privacy
+We do not knowingly solicit data from or market to children under the age of 13 (or under 16 in the EEA). If a parent or guardian becomes aware that their child has provided us with information without their consent, they should contact us immediately. We will take steps to promptly remove such information from our records.
+
+8. Your Rights to Your Data
+You have the option to update or correct your personal data through your App account settings or by contacting us. You have the right to restrict the processing of your data, request data deletion, access, or copies, object to data processing, or withdraw your consent. For these requests, please contact us for identity verification, and we will respond in accordance with applicable laws.
+
+9. Getting in Touch
+For inquiries about your personal data or this Privacy Policy, please reach out to us at meryam.learn@gmail.com.
